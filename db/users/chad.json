@@ -1,0 +1,10 @@
+{
+  "id": "chad",
+  "name": "Chad Smith",
+  "lists": [
+    "a"
+  ],
+  "friends": [
+    "john"
+  ]
+}
