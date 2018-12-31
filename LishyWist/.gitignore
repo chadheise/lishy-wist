@@ -1,6 +1,4 @@
-/bin
-/target
-.project
+/target/
 .classpath
-/.settings
-/.mvn
+.project
+.settings
